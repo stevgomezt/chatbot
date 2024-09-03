@@ -233,11 +233,12 @@ canvas {
     left: 5%;
     font-weight: 400;
     color: #7c7c7c;
-    font-size: 21px;
+    font-size: 20px;
 }
 #page2 > #text1 > h3 {
     color: #7c7c7c;
     font-weight: 400;
+    font-size: 20px;
 }
 #page2 > #text1 > h1 {
     font-size: 60px;
