@@ -135,7 +135,7 @@ canvas {
     width: 33%;
     font-weight: 400;
     color: #7c7c7c;
-    font-size: 25px;
+    font-size: 20px;
 }
 #page > h4 {
     position: absolute;
@@ -164,7 +164,7 @@ canvas {
 #page1 > #right-text > h3 {
     font-weight: 400;
     color: #7c7c7c;
-    font-size: 25px;
+    font-size: 20px;
 }
 
 #page1 > #right-text > h1 {
@@ -194,7 +194,7 @@ canvas {
 #page1 > #left-text1 > h3 {
     font-weight: 400;
     color: #7c7c7c;
-    font-size: 25px;
+    font-size: 20px;
     /* border: solid; */
     width: 33%;
 }
@@ -219,7 +219,7 @@ canvas {
 #page1 > #left-text > h3 {
     font-weight: 400;
     color: #7c7c7c;
-    font-size: 25px;
+    font-size: 20px;
 }
 
 #page2 > #text1 {
